@@ -67,4 +67,4 @@ Replace `nextTick()` in `lib/metrics.ts` with your events and call
 route handler, a server action, a queue worker or a webhook.
 
 Events count against your plan's daily messages when published; each
-delivery to a browser is free.
+delivery to a browser is free. 
